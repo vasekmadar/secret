@@ -18,3 +18,4 @@ title('Graf pole čísel');
 xlabel('Index');
 ylabel('Hodnota');
 grid on;
+% comment
