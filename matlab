@@ -27,4 +27,4 @@ title('Graf pole čísel');
 xlabel('Index');
 ylabel('Hodnota');
 grid on;
-% comment
+% commenta asd asd as as as as d  
