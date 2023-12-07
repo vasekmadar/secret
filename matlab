@@ -86,3 +86,12 @@ grid on;
 dfffff
 
 /**FDalsi **/
+
+% Vykreslení grafu
+figure;
+plot(numbers, 'o-');
+title('Graf pole čísel');
+xlabel('Index');
+ylabel('Hodnota');
+grid on;
+dfffff
