@@ -20,7 +20,7 @@ ylabel('Hodnota');
 grid on;
 % comment
 
-
+88888
 % Vykreslení grafu
 figure;
 plot(numbers, 'o-');
