@@ -77,6 +77,7 @@ figure;
 plot(numbers, 'o-');
 title('Graf pole čísel');
 
+
 % Vykreslení grafu
 figure;
 plot(numbers, 'o-');
