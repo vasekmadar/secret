@@ -290,6 +290,7 @@ figure;
 
 /******************/
 
+
 % Vykreslení grafu
 figure;
 plot(numbers, 'o-');
