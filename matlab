@@ -24,7 +24,8 @@ grid on;
 88888
 % Vykreslení grafu
 figure;
-plot(numbers, 'o-');
+plot(numbers, 'o-'); /*****************************/
+
 title('Graf pole čísel');
 xlabel('Index');
 ylabel('Hodnota');
