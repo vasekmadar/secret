@@ -304,13 +304,3 @@ grid on;
 figure;
 /***********************************/
 /***********************************/
-
-% Vykreslení grafu
-figure;
-plot(numbers, 'o-');
-title('Graf pole čísel');
-xlabel('Index');
-ylabel('Hodnota');
-grid on;
-% commenta asd asd as as as as d  % Vykreslení grafu
-figure;
