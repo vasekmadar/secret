@@ -11,8 +11,6 @@ minValue = min(numbers);
 fprintf('Maximální hodnota je: %d\n', maxValue);
 fprintf('Minimální hodnota je: %d\n', minValue);
 
-
-
 % Vykreslení grafu
 figure;
 plot(numbers, 'o-');
@@ -305,17 +303,7 @@ figure;
 /***********************************/
 /***********************************/
 
-
-% Vykreslení grafu
-figure;
-plot(numbers, 'o-');
-title('Graf pole čísel');
-xlabel('Index');
-ylabel('Hodnota');
-grid on;
-% commenta asd asd as as as as d  % Vykreslení grafu
-figure;
-/***********************************/
+/***********/
 /***********************************/
 
 % Vykreslení grafu
