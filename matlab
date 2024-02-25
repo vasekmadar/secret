@@ -5,6 +5,10 @@ numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 average = mean(numbers);
 fprintf('Průměr pole je: %.2f\n', average);
 
+% Výpočet průměru
+average = mean(numbers);
+fprintf('Průměr pole je: %.2f\n', average);
+
 % Nalezení maximálního a minimálního prvku
 maxValue = max(numbers);
 minValue = min(numbers);
