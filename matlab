@@ -324,15 +324,6 @@ figure;
 /*********************************/
 /*********************************/
 
-% Vykreslení grafu
-figure;
-plot(numbers, 'o-');
-title('Graf pole čísel');
-xlabel('Index');
-ylabel('Hodnota');
-grid on;
-% commenta asd asd as as as as d  % Vykreslení grafu
-figure;
 /***********************************/
 
 /*********************************/
@@ -361,3 +352,13 @@ grid on;
 % commenta asd asd as as as as d  % Vykreslení grafu
 figure;
 /***********************************/
+
+% Výpočet průměru
+average = mean(numbers);
+fprintf('Průměr pole je: %.2f\n', average);
+
+% Nalezení maximálního a minimálního prvku
+maxValue = max(numbers);
+minValue = min(numbers);
+fprintf('Maximální hodnota je: %d\n', maxValue);
+fprintf('Minimální hodnota je: %d\n', minValue);
