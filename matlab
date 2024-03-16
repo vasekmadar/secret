@@ -363,10 +363,9 @@ minValue = min(numbers);
 fprintf('Maximální hodnota je: %d\n', maxValue);
 fprintf('Minimální hodnota je: %d\n', minValue);
 
-/***********************************/
+/********************
 
 TODO
-
 % Vykreslení grafu
 figure;
 plot(numbers, 'o-');
