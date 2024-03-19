@@ -379,6 +379,8 @@ figure;
 
 /********************
 
+
+
 TODO
 % Vykreslení grafu
 figure;
