@@ -29,6 +29,8 @@ grid on;
 figure;
 plot(numbers, 'o-'); /*****************************/
 
+
+
 title('Graf pole čísel');
 xlabel('Index');
 ylabel('Hodnota');
