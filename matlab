@@ -379,9 +379,6 @@ figure;
 /********************
 
 TODO
-
-
-TODO
 % Vykreslení grafu
 figure;
 plot(numbers, 'o-');
