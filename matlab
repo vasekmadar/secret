@@ -29,8 +29,6 @@ grid on;
 figure;
 plot(numbers, 'o-'); /*****************************/
 
-
-
 title('Graf pole čísel');
 xlabel('Index');
 ylabel('Hodnota');
@@ -393,7 +391,6 @@ TODO
 % Vykreslení grafu
 figure;
 /***********************************/
-
 TODO
 % Vykreslení grafu
 figure;
