@@ -362,11 +362,6 @@ fprintf('Maximální hodnota je: %d\n', maxValue);
 fprintf('Minimální hodnota je: %d\n', minValue);
 
 /********************
-
-TODO
-
-/***********************************/
-
 /********************
 
 TODO
