@@ -364,6 +364,9 @@ fprintf('Minimální hodnota je: %d\n', minValue);
 /********************
 /********************
 
+
+
+
 TODO
 % Vykreslení grafu
 figure;
