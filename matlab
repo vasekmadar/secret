@@ -30,6 +30,20 @@ grid on;
 figure;
 plot(numbers, 'o-'); /*****************************/
 
+% Vykreslení grafu
+figure;
+plot(numbers, 'o-');
+title('Graf pole čísel');
+xlabel('Index');
+ylabel('Hodnota');
+grid on;
+% comment
+111111111111112
+88888
+% Vykreslení grafu
+figure;
+plot(numbers, 'o-'); /*****************************/
+
 title('Graf pole čísel');
 xlabel('Index');
 ylabel('Hodnota');
