@@ -421,10 +421,6 @@ grid on;
 % commenta asd asd as as as as d  % Vykreslení grafu
 figure;
 /***********************************/
-
-/**********************************/
-TODO
-
 /***********************************/
 TODO
 % Vykreslení grafu
